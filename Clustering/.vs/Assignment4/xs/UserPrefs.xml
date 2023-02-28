@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E7B0CF7A-11F2-3715-B961-B569AD0467D9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HW4/KClusterer.cs">
+    <Files>
+      <File FileName="Assets/HW4/Datapoint.cs" Line="12" Column="26" />
+      <File FileName="Assets/HW4/KClusterer.cs" Line="7" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a0810e27-95f7-4eba-ab52-f08f51c4e93e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
